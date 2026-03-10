@@ -1,6 +1,6 @@
 ---
 
-# Simple File Integrity Checker using Streamlit
+# File Integrity Checker using Streamlit
 
 This project is a lightweight web application that helps users verify the integrity of files by comparing their hash values (SHA-256). It allows users to upload two files and checks if they are identical, ensuring that no unauthorized changes or corruption have occurred.
 
