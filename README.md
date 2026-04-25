@@ -1,5 +1,3 @@
----
-
 # File Integrity Checker using Streamlit
 
 This project is a lightweight web application that helps users verify the integrity of files by comparing their hash values (SHA-256). It allows users to upload two files and checks if they are identical, ensuring that no unauthorized changes or corruption have occurred.
@@ -22,8 +20,8 @@ This project is a lightweight web application that helps users verify the integr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/hira299/simple-file-integrity-checker.git
-    cd simple-file-integrity-checker
+    git clone https://github.com/hira299/file-integrity-checker.git
+
     ```
 
 2. Install the required dependencies:
