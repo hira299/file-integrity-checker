@@ -22,7 +22,7 @@ This project is a lightweight web application that helps users verify the integr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/simple-file-integrity-checker.git
+    git clone https://github.com/hira299/simple-file-integrity-checker.git
     cd simple-file-integrity-checker
     ```
 
